@@ -4,5 +4,5 @@ Analysis of the most frequent words in articles on the theme Cryptocurrency from
 
 Includes:
 - Top-10 words in articles
-- Word cloud 
+- Word Cloud 
 - TF-IDF
